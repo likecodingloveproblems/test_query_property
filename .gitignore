@@ -274,3 +274,5 @@ dump.rdb
 queryproperty/media/
 
 .pytest_cache/
+.env
+.vscode/
